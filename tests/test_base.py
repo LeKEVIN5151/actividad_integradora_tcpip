@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from actividad_integradora_tcpip.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "actividad_integradora_tcpip"
