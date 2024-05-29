@@ -16,9 +16,6 @@
   <a href="https://github.com/LeKEVIN5151/actividad_integradora_tcpip/issues">
     <img src="https://img.shields.io/github/issues/LeKEVIN5151/actividad_integradora_tcpip.svg?style=for-the-badge" alt="Issues">
   </a>
-  <a href="https://github.com/LeKEVIN5151/actividad_integradora_tcpip/blob/master/LICENSE.txt">
-    <img src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge" alt="MIT License">
-  </a>
 </p>
 
 <!-- PROJECT LOGO -->
