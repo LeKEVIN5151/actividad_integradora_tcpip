@@ -1,2 +1,8 @@
-site_name: actividad_integradora_tcpip
+site_name: Actividad Integradora TCP/IP
+nav:
+  - Home: index.md
+#  - Instalación: instalacion.md
+# - Creación Entorno Virtual: crear_venv.md
+#- Uso: uso.md
+#- Desarrollo: desarrollo.md
 theme: readthedocs
