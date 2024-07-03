@@ -85,7 +85,7 @@ A continuación, te mostraremos cómo iniciar una aplicación desarrollada en Re
 <p align="left">
   1. Construye la imagen Docker (deberás tener los anteriores 3 archivos en la misma carpeta):
   <pre>
-  <code>docker build -t snakegame</code>
+  <code>docker build -t snakegame .</code>
   </pre>
 </p>
 

@@ -19,30 +19,20 @@
 </p>
 
 <!-- PROJECT LOGO -->
-<br />
+
+<div align="center">
+<p align="center">
+  <img src="/images/logo.png" alt="Logo REFLEX" width="200"/>
+
 <div align="center">
   <a href="https://github.com/LeKEVIN5151/actividad_integradora_tcpip">
-    <img src="images/logo.png" alt="Logo" width="211.5" height="62">
+    <img src="images/snake.webp" alt="Snake Game" width="400" height="324">
   </a>
-</div>
-
-<br />
-<div align="center">
-  <a href="https://github.com/LeKEVIN5151/actividad_integradora_tcpip">
-    <img src="images/snake.webp" alt="Snake Game" width="200" height="124">
-  </a>
-</div>
-
-<h3 align="center">Snake Game in Reflex!!!</h3>
+</p>
+<h3 align="center">Snake Game En Reflex!!!</h3>
 
 <p align="left">En este proyecto te enseño a ejecutar el juego del snake en un entorno totalmente dockerizado.</p>
 
-  <p align="center">
-    <br />
-    <a href="https://danunziata.github.io/faltacambiaresto/"><strong>Mira la Documentación completa »</strong></a>
-    <br />
-    <br />
-  </p>
 <h3 align="center">Built With</h3>
 
 <div align="center">
@@ -65,7 +55,7 @@
 <h2 align="center">Para comenzar</h2>
 
 <p align="left">
-  A continuación, se explicará cómo iniciar una aplicación desarrollada en Reflex que está contenedorizada con Docker, para que puedas ejecutarla localmente en tu computadora dentro de un entorno Docker.
+A continuación, te mostraremos cómo iniciar una aplicación desarrollada en Reflex y contenedorizada con Docker, para que puedas ejecutarla localmente en tu computadora dentro de un entorno Docker.
 </p>
 
 <h2 align="center">Todo lo necesario para la ejecución</h2>
@@ -95,7 +85,7 @@
 <p align="left">
   1. Construye la imagen Docker (deberás tener los anteriores 3 archivos en la misma carpeta):
   <pre>
-  <code>docker build -t snakegame</code>
+  <code>docker build -t snakegame .</code>
   </pre>
 </p>
 
